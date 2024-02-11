@@ -1,0 +1,12 @@
+trips
+-add lodging field
+-note
+
+flight info
+
+
+budget model
+-grouping, cost, notes 
+
+attractions 
+-name, type, confirm button for budget interaction
